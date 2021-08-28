@@ -1,0 +1,58 @@
+file_type: csv
+dataset_name: ddfile
+file_name: Parking_Violations_Issued_-_Fiscal_Year_2015
+file_path: D:\Purity\DataGlacier Internship\week6\Parking_Violations_Issued_-_Fiscal_Year_2015.csv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+columns: 
+    - summonsnumber
+    - plateid
+    - registrationstate
+    - platetype
+    - issuedate
+    - violationcode
+    - vehiclebodytype
+    - vehiclemake
+    - IssuingAgency
+    - StreetCode1
+    - StreetCode2
+    - StreetCode3
+    - VehicleExpirationDate
+    - ViolationLocation
+    - ViolationPrecinct
+    - IssuerPrecinct
+    - IssuerCode
+    - IssuerCommand
+    - IssuerSquad
+    - ViolationTime
+    - TimeFirstObserved
+    - ViolationCounty
+    - ViolationInFrontOfOrOpposite
+    - HouseNumber
+    - StreetName
+    - IntersectingStreet
+    - DateFirstObserved
+    - LawSection
+    - SubDivision
+    - ViolationLegalCode
+    - DaysParkingInEffect
+    - FromHoursInEffect
+    - ToHoursInEffect
+    - VehicleColor
+    - UnregisteredVehicle
+    - VehicleYear
+    - MeterNumber
+    - FeetFromCurb
+    - ViolationPostCode
+    - ViolationDescription
+    - NoStandingorStoppingViolation
+    - HydrantViolation
+    - DoubleParkingViolation
+    - Latitude
+    - Longitude
+    - CommunityBoard
+    - CommunityCouncil
+    - CensusTract
+    - BIN
+    - BBL
+    - NTA
